@@ -1,0 +1,8 @@
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\bin\Release\CustomControl.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\bin\Release\CustomControl.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.csprojAssemblyReference.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.IpAddressTextBox.resources
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.csproj.GenerateResource.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.csproj.CoreCompileInputs.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\CustomControl\obj\Release\CustomControl.pdb

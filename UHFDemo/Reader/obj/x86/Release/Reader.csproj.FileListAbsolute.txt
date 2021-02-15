@@ -1,0 +1,37 @@
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\Reader.dll
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\Reader.pdb
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\CustomControl.dll
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\CustomControl.pdb
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csprojAssemblyReference.cache
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CoreCompileInputs.cache
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CopyComplete
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.dll
+C:\Users\ZHM\Desktop\新\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\Reader.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\Reader.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\CustomControl.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\CustomControl.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csprojAssemblyReference.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CoreCompileInputs.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CopyComplete
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Release\Reader.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\Reader.dll.config
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\CustomControl.dll.config
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.xml
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\Reader.dll.config
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\Reader.dll
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\Reader.pdb
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\CustomControl.dll
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.dll
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\CustomControl.pdb
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\CustomControl.dll.config
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\bin\x86\Release\System.Data.SQLite.xml
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\obj\x86\Release\Reader.csprojAssemblyReference.cache
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CoreCompileInputs.cache
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\obj\x86\Release\Reader.csproj.CopyComplete
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\obj\x86\Release\Reader.dll
+C:\aquchile\New folder\rfid-beta\UHFDemo\Reader\obj\x86\Release\Reader.pdb

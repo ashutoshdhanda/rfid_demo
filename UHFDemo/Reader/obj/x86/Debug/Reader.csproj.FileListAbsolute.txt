@@ -1,0 +1,14 @@
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\Reader.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\Reader.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\CustomControl.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\CustomControl.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Debug\Reader.csprojAssemblyReference.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Debug\Reader.csproj.CoreCompileInputs.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Debug\Reader.csproj.CopyComplete
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Debug\Reader.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\obj\x86\Debug\Reader.pdb
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\Reader.dll.config
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\CustomControl.dll.config
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\Reader\bin\x86\Debug\System.Data.SQLite.xml

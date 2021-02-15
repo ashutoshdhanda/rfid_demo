@@ -1,0 +1,6 @@
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.csprojAssemblyReference.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.Form1.resources
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.R2000UartDemo.resources
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.Properties.Resources.resources
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.csproj.GenerateResource.cache
+C:\Users\Yatac\Desktop\PROYECTO RFID\PC-demo-software (c#)\UHFDemo\UHFDemo\obj\Release\UHFDemo.csproj.CoreCompileInputs.cache
